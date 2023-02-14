@@ -46,3 +46,6 @@
     11.1 create Rating component
     11.2 create Product component
     11.3 Use Rating component in Product component
+12. Create Product Details Screen
+    12.1 fetch product from backend
+    12.2 create 3 columns for image, info and action
