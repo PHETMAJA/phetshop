@@ -105,3 +105,6 @@
     25.1 create input forms
     25.2 handle submit
     25.3 create backend api
+26. Implement Select Payment Method Screen
+    26.1 create input forms
+    26.2 handle submit
