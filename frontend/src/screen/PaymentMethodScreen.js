@@ -1,10 +1,10 @@
 import React, { useContext, useEffect, useState } from 'react';
-import CheckoutSteps from '../components/CheckoutSteps';
 import { Helmet } from 'react-helmet-async';
+import { useNavigate } from 'react-router-dom';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
+import CheckoutSteps from '../components/CheckoutSteps';
 import { Store } from '../Store';
-import { useNavigate } from 'react-router-dom';
 
 export default function PaymentMethodScreen() {
   const navigate = useNavigate();

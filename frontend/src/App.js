@@ -16,6 +16,7 @@ import SigninScreen from './screen/SigninScreen';
 import ShippingAddressScreen from './screen/ShippingAddressScreen';
 import SignupScreen from './screen/SignupScreen';
 import PaymentMethodScreen from './screen/PaymentMethodScreen';
+import PlaceOrderScreen from './screen/PlaceOrderScreen';
 
 function App() {
   const { state, dispatch: ctxDispatch } = useContext(Store);
@@ -82,6 +83,7 @@ function App() {
               <Route path="/signup" element={<SignupScreen />} />
               <Route path="/shipping" element={<ShippingAddressScreen />} />
               <Route path="/payment" element={<PaymentMethodScreen />} />
+              <Route path="/placeorder" element={<PlaceOrderScreen />} />
               <Route path="/" element={<HomeScreen />} />
             </Routes>
           </Container>
