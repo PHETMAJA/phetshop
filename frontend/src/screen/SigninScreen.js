@@ -7,7 +7,7 @@ import Axios from 'axios';
 import { useContext, useEffect, useState } from 'react';
 import { Store } from '../Store';
 import { toast } from 'react-toastify';
-import { getError } from '../utills';
+import { getError } from '../utils';
 
 export default function SigninScreen() {
   const navigate = useNavigate();
