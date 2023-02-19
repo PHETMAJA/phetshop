@@ -153,3 +153,7 @@
     36.1 create dashboard ui
     36.2 implement backend api
     36.3 connect ui to backend
+37. Manage Products
+    37.1 create products list ui
+    37.2 implement backend api
+    37.3 fetch data
