@@ -133,3 +133,8 @@
     31.1 create order screen
     31.2 create order history api
     31.3 use api in the frontend
+32. Create Profile Screen
+    32.1 get user info from context
+    32.2 show user information
+    32.3 create user update api
+    32.4 update user info
