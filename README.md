@@ -138,3 +138,6 @@
     32.2 show user information
     32.3 create user update api
     32.4 update user info
+33. Add Sidebar and Search Box
+    33.1 add sidebar
+    33.2 add search box
