@@ -141,3 +141,11 @@
 33. Add Sidebar and Search Box
     33.1 add sidebar
     33.2 add search box
+34. Create Search Screen
+    34.1 show fillters
+    34.2 create api for searching products
+    34.3 display results
+35. Create Admin Menu
+    35.1 define protected route component
+    35.2 define admin route component
+    35.3 add menu for admin in header
