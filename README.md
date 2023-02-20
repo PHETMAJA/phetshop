@@ -173,3 +173,7 @@
     41.2 use the api key in env file
     41.3 handle upload file
     41.4 implement backend api to upload
+42. Delete Product
+    42.1 show delect button
+    42.2 implement backend qpi
+    42.3 handle on click
