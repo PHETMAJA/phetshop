@@ -157,3 +157,11 @@
     37.1 create products list ui
     37.2 implement backend api
     37.3 fetch data
+38. Create Product
+    38.1 create products button
+    38.2 implement backend api
+    38.3 handle on click
+39. Create Edit Product
+    39.1 create edit
+    39.2 create edit product ui
+    39.3 display product info in the input boxes
