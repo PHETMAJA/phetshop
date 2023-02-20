@@ -214,7 +214,7 @@ function App() {
                 }
               />
               <Route
-                path="/admin/products/:id"
+                path="/admin/products/admin/product/:id"
                 element={
                   <AdminRoute>
                     <ProductEditScreen />
