@@ -193,3 +193,9 @@
     46.1 create user list screen
     46.2 implement backend api
     46.3 fetch and display users
+47. Edit User
+    47.1 create edit button
+    47.2 create edit product ui (UserEditScreen)
+    47.3 display product info in the input boxes
+    47.4 implement backend api
+    47.5 handle edit click
