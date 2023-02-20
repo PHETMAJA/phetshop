@@ -185,3 +185,7 @@
     44.1 add deliver button
     44.2 handle click action
     44.3 implement backend api for deliver
+45. Delete Order
+    45.1 add delete button
+    45.2 handle click action
+    45.3 implement backend api for delete
